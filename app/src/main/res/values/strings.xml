@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DayNightCardTime</string>
+
+
+
+
+    <string name="title_good_night">Good night</string>
+    <string name="title_good_evening">Good evening</string>
+    <string name="title_good_afternoon">Good afternoon</string>
+    <string name="title_good_morning">Good morning</string>
+    <string name="title_good_day">Good day</string>
+
+
+    <string name="made_with_in">Made With ❤ in India</string>
+</resources>
